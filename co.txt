@@ -1,0 +1,9 @@
+git status
+git add .
+git commit -m ""
+git push
+
+to pc
+(go to documents)
+(git clone.. (find on github project))
+(git pull)
